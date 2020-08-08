@@ -1,2 +1,2 @@
 # Romanian-Leu
-RON is romanian leu crypto
+RON is romania crypto
